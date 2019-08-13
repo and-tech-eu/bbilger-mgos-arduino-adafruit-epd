@@ -1,3 +1,5 @@
+:warning: The repository was moved to [https://github.com/mongoose-os-libs/arduino-adafruit-epd](https://github.com/mongoose-os-libs/arduino-adafruit-epd) and was archived for that reason.
+
 # Adafruit E-Paper / E-Ink Library for Mongoose OS
 
 [![Build Status](https://img.shields.io/travis/bbilger/mgos-arduino-adafruit-epd.svg?maxAge=60&style=flat-square)](https://travis-ci.org/bbilger/mgos-arduino-adafruit-epd)
